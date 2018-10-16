@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "dac-solution-1",
+    "libraryId": "a4653262-0201-40fd-b8a7-db15abf77c63",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
